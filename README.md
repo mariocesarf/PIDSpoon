@@ -6,10 +6,9 @@ Mario Cesar Freire Dias Filho - 472773
 
 ## Link para apresentação
 [Video](https://youtu.be/0-HjJ-phw9M)
+
 https://youtu.be/0-HjJ-phw9M
 
-![Esquematico](https://youtu.be/0-HjJ-phw9M
-)
 
 # *PIDSpoon [WIP]*
 O PIDSpoon é um projeto de sistemas microprocessados que visa implementar um algoritmo de controle PID e de tratamento de sinais como a media movel para o desenvovimento de uma colher que possa ajudar a alimentação de pacientes com limitações motoras na mão.
